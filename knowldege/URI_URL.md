@@ -21,4 +21,4 @@ URI(동물) - URL(사자), URN(코끼리)
 - RESTful API서버를 구성한 경우 Controller에서 Identifier를 설정하기 때문에 URI라고 언급하는 것이 정확한 표현이다.
 
 - Test
-@[embedding](https://www.youtube.com/watch?v=7vb3ZUYxBWo&t=119s)
+![embedding](https://www.youtube.com/watch?v=7vb3ZUYxBWo&t=119s)
