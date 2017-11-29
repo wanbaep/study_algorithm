@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wanbaep/Desktop/etc/study_algorithm/problem/171023/minmax-operator/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
